@@ -1,0 +1,12 @@
+{
+  "name": "render-user-api",
+  "version": "1.0.0",
+  "description": "Simple User API deployed on Render",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
